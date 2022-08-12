@@ -1,7 +1,7 @@
 ## Vinicius G. Ciunek
 ## Cursando Técnologia em Sistemas para Internet  na Universidade Técnologica do Paraná
-## current learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<h1> current learning </h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
